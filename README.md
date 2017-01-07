@@ -52,7 +52,13 @@ Mouse functions.
 - Vertical Move		: Rotate Camera in Y-Axis.
 - Left Click		: Bash.
 
-# Contact
+# Contact.
 Feel free to contact me for any reason.  
 - Personal email  : fotismitropoulos@gmail.com  
 - Academic email  : cse32486@cs.uoi.gr  
+
+# Screenshots.
+![Alt tag](https://github.com/fotism23/Maze/blob/master/Preview/menu_scene.PNG)
+![Alt tag](https://github.com/fotism23/Maze/blob/master/Preview/fps_view.PNG)
+![Alt tag](https://github.com/fotism23/Maze/blob/master/Preview/orbiting_camera.PNG)
+
