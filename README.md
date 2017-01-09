@@ -1,7 +1,7 @@
 # Maze
  A 3D Maze game using Unity3D game engine.
 
-This game was developed as the second assignment for the undergraduate couse Computer Graphics and Interactive Systems of the Department of Computer Science and Engineering at the University of Ioannina.
+This game was developed as the second assignment for the undergraduate course Computer Graphics and Interactive Systems of the Department of Computer Science and Engineering at the University of Ioannina.
 
 ![Alt tag](https://github.com/fotism23/Maze/blob/master/Preview/menu_scene.PNG)
  
@@ -9,7 +9,7 @@ This game was developed as the second assignment for the undergraduate couse Com
 Fotios Mitropoulos 2486
 
 # Functionalities.
-- Variaty of First person Character controls (Walk, Climb, Jump, Run, Bash).
+- Variety of First person Character controls (Walk, Climb, Jump, Run, Bash, Idle).
 - Orbiting world person camera mode.
 - Multiple lightning modes.
 - Multiple animations for each Character control.
@@ -30,7 +30,7 @@ This game was developed in Unity3D v.5.5.0f3 Personal Edition, scripting was dev
 
 # Installation.
 This game does not require any sort of software installation in order to run.
-The binary releases are available at the repository Realease section.
+The binary releases are available at the repository Release section.
 In order to run the game you need a .maz file provided with the release placed at the same directory with the game executable.
 
 # How to play.
